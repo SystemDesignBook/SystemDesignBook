@@ -94,4 +94,4 @@
 
 포스팅
 - https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/
-- 
+- https://maily.so/devpill/c/system-design
