@@ -78,6 +78,9 @@
 
 ## References
 
+개요
+- https://maily.so/devpill/posts/d64fde2f
+
 시스템디자인 인터뷰
 - https://www.youtube.com/watch?v=til92X5hYAY&ab_channel=Exponent
 
@@ -88,3 +91,7 @@
 
 문제 샘플
 - https://systemdesignfightclub.com/craigslist/
+
+포스팅
+- https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/
+- 
